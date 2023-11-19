@@ -40,7 +40,7 @@
   </a>
   <img width="12" />
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" style="pointer-events: none;" />
+    <img src="https://www.svgrepo.com/show/374072/shaderlab.svg" height="40" alt="unity logo" style="pointer-events: none;" />
   </a>
   <img width="12" />
   <a href="#">
